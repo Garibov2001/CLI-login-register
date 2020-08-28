@@ -1,0 +1,30 @@
+[
+    {
+        "username": "mahmud.garibov",
+        "name": "Mahmud",
+        "lastName": "Garibov",
+        "password": "Qw123$",
+        "type": "admin"
+    },
+    {
+        "username": "qudir.memmedli",
+        "name": "Qudir",
+        "lastName": "Memmedli",
+        "password": "Qw123$",
+        "type": "editor"
+    },
+    {
+        "username": "rovshen.superman",
+        "name": "Rovshen",
+        "lastName": "Superman",
+        "password": "Qw123$",
+        "type": "editor"
+    },
+    {
+        "username": "ebdul.qurbanov",
+        "name": "Ebdul",
+        "lastName": "Qurbanov",
+        "password": "Qw123$",
+        "type": "editor"
+    }
+]
