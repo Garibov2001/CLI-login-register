@@ -1,8 +1,0 @@
-1. Eyni seyleri validationa yig +
-2. Rege daxil olduqda cixmani temin et
-3. Datalari json da deyismek ucun write rejimde olmalidi mutleq +
-*4. ChangeAccountu tamamla +
-6. Delete Any Account (admin ucun) +
-*7. isValidInputlari if-else evezine bir ifin icinde orla yaz +
-8. Jsondan oxumani daha da rahatlasdir +
-
